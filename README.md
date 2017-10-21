@@ -13,3 +13,4 @@
 
 四、实现效果图：
     
+![image](https://github.com/fightingxiaoc/QuickIndexBar/tree/master/picture)
